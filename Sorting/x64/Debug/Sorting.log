@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\user\source\repos\Sorting\Sorting\permutation.hpp(49,16): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'main.cpp')
+  C:\Users\user\source\repos\Sorting\Sorting\permutation.hpp(49,16):
+  範本具現化內容 (首先是最舊的) 是
+  	C:\Users\user\source\repos\Sorting\Sorting\main.cpp(19,26):
+  	請參考正在進行編譯的 類別 樣板 具現化 'Worst_Permutation<int>'
+  	C:\Users\user\source\repos\Sorting\Sorting\permutation.hpp(44,17):
+  	編譯 類別 樣板 成員函式 'std::vector<int,std::allocator<int>> Worst_Permutation<int>::worstCaseOfmerge(int)' 期間
+  		C:\Users\user\source\repos\Sorting\Sorting\permutation.hpp(37,35):
+  		請參閱 'Worst_Permutation<int>::Worst_Permutation' 中 'Worst_Permutation<int>::worstCaseOfmerge' 的第一個參考
+  		C:\Users\user\source\repos\Sorting\Sorting\main.cpp(19,39):
+  		請參閱 'main' 中 'Worst_Permutation<int>::Worst_Permutation' 的第一個參考
+  
+C:\Users\user\source\repos\Sorting\Sorting\permutation.hpp(50,19): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'main.cpp')
+  
+  Sorting.vcxproj -> C:\Users\user\source\repos\Sorting\x64\Debug\Sorting.exe
